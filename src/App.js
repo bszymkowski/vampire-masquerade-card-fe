@@ -5,7 +5,7 @@ import {CardHeader} from "./card/CardHeader";
 
 const mockData = {
     header: {
-        name: 'Stefano Priano',
+        name: 'Stefano Banano',
         player: 'Stefan Elefan',
         saga: 'Opowieść Stefana',
         nature: 'Naturszczyk',
