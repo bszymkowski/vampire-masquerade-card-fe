@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'reactstrap';
 import './App.css';
 import {CardHeader} from "./card/CardHeader";
 
-var mockData = {
+const mockData = {
     header: {
         name: 'Stefano Priano',
         player: 'Stefan Elefan',
